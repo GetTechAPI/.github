@@ -25,15 +25,6 @@ Visit **[gettechapi.github.io/TechAPI](https://gettechapi.github.io/TechAPI/)** 
 
 ---
 
-## Projects
-
-| Project | What it is | License |
-|---|---|---|
-| **[TechAPI](https://github.com/GetTechAPI/TechAPI)** | The open dataset + static REST/JSON API — CPU · GPU · SoC · smartphone · brand. | Data: **CC-BY-SA 4.0** |
-| **[TechEngine](https://github.com/GetTechAPI/TechEngine)** | Validation, ingestion, and serving engine that curates and publishes the dataset. | Code: **MIT** |
-
----
-
 <div align="center">
 
 Data is **CC-BY-SA 4.0** · Engine code is **MIT**
