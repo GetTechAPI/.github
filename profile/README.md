@@ -1,34 +1,15 @@
-<div align="center">
+# Get Tech API Foundation (GTA)
 
-# Get Tech API Foundation&nbsp;(GTA)
+The [Get Tech API Foundation (GTA)](https://gettechapi.github.io/TechAPI/) maintains open data for every device.
 
-**Open data for every device.**
+We keep hardware specifications free, structured, and versioned — every CPU, GPU, SoC, and smartphone is plain JSON, gated by automated validation, and served as a static REST API that anyone can query without a key.
 
-Free, structured, no-key REST specs for **CPUs · GPUs · SoCs · smartphones**.
+* [Browse the API & docs](https://gettechapi.github.io/TechAPI/)
+* [Explore the dataset (TechAPI)](https://github.com/GetTechAPI/TechAPI)
+* [See the engine (TechEngine)](https://github.com/GetTechAPI/TechEngine)
 
-</div>
+Visit [gettechapi.github.io/TechAPI](https://gettechapi.github.io/TechAPI/) to learn more!
 
----
+----
 
-The **Get Tech API Foundation (GTA)** maintains an open, curated dataset of hardware
-specifications — and the tooling that validates and serves it.
-
-We keep device data **free, structured, and versioned**: every CPU, GPU, SoC, and
-smartphone record lives as plain JSON, is gated by automated validation, and is
-published as a static REST API that anyone can query **without an API key**.
-
-* 🔎 [Browse the API &amp; docs](https://gettechapi.github.io/TechAPI/)
-* 📦 [Explore the dataset — **TechAPI**](https://github.com/GetTechAPI/TechAPI)
-* ⚙️ [See the engine — **TechEngine**](https://github.com/GetTechAPI/TechEngine)
-
-Visit **[gettechapi.github.io/TechAPI](https://gettechapi.github.io/TechAPI/)** to get started!
-
----
-
-<div align="center">
-
-Data is **CC-BY-SA 4.0** · Engine code is **MIT**
-
-Contributions welcome — open an issue or PR on the relevant project.
-
-</div>
+Data is licensed CC-BY-SA 4.0; engine code is MIT.
