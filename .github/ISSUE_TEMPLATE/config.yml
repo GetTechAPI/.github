@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Data correction or missing record
+    url: https://github.com/GetTechAPI/TechAPI/issues/new/choose
+    about: Wrong or missing hardware, software or website data is handled with TechAPI's issue forms.
